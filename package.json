@@ -7,10 +7,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jakobvogel/node-keytar"
+    "url": "https://github.com/scireum/node-keytar.git"
   },
   "bugs": {
-    "url": "https://github.com/jakobvogel/node-keytar/issues"
+    "url": "https://github.com/scireum/node-keytar/issues"
   },
   "homepage": "http://atom.github.io/node-keytar",
   "keywords": [
