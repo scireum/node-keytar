@@ -3,7 +3,7 @@
   "typings": "keytar.d.ts",
   "name": "keytar",
   "description": "Bindings to native Mac/Linux/Windows password APIs",
-  "version": "4.7.0-enterprise",
+  "version": "4.8.0-enterprise",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -52,7 +52,7 @@
     "prebuild": "^8.2.1"
   },
   "dependencies": {
-    "nan": "2.13.2",
+    "nan": "2.14.0",
     "prebuild-install": "5.3.0"
   }
 }
